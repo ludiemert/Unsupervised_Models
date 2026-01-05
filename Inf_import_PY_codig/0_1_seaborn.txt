@@ -1,0 +1,10 @@
+seaborn
+
+Melhor lib para visualizar dados - no geral
+
+https://seaborn.pydata.org/
+
+ - 1 lib com foco em estatistica
+
+ - 2  ver como as variaveis se corelacionam
+ - 3 - todos os graficos tem o Matplotlib por baixo
