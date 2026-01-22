@@ -81,5 +81,95 @@ The course combines **theory** and **practical exercises**, helping students app
 After this course, the student will be able to:
 - Understand the difference between **KMeans** and **GMM**
 - Interpret clusters and probability distributions
+
+
+-----
+
+#### Portugues
+
+# 📊 Modelos Não Supervisionados
+
+## 🧠 Sobre o curso
+O curso **Modelos Não Supervisionados** é uma jornada essencial para quem deseja compreender e aplicar técnicas avançadas de **Ciência de Dados** e **Machine Learning** no dia a dia profissional.
+
+O aprendizado não supervisionado é uma área de grande interesse e investimento na indústria, pois permite que modelos descubram **padrões e relações ocultas nos dados sem rótulos prévios**, eliminando a necessidade de classificação manual — um processo custoso e demorado.
+
+Dominar essas técnicas abre portas para aplicações reais como:
+- Detecção de fraudes
+- Segmentação de público
+- Detecção de anomalias
+- Otimização de processos industriais
+
+O curso combina **fundamentação teórica sólida** com **exercícios práticos**, permitindo aplicar os conceitos com confiança em problemas do mundo real.
+
+---
+
+## 🎯 O que você vai aprender
+- Introdução ao **aprendizado não supervisionado**
+- **KMeans**: conceito, funcionamento, prática e limitações
+- **Elbow Method** (método do cotovelo)
+- **Mixture Models**
+- **Gaussian Mixture Models (GMM)**
+- Detecção de **anomalias e fraudes**
+- Projeto prático de **clusterização e segmentação de universidades americanas**
+
+---
+
+## 📚 Conteúdo do curso
+
+### 📌 Módulo 1 — Modelos de Aprendizado Não Supervisionado
+- Apresentação do curso e conceitos fundamentais
+- KMeans na prática
+- Funcionamento do algoritmo KMeans
+- Problemas e limitações do KMeans
+- Elbow Method
+- Mixture Models
+- Definição matemática dos Mixture Models
+- Gaussian Mixture Models (GMM)
+- GMM na prática
+- Detecção de anomalias com GMM
+
+---
+
+### 📌 Módulo 2 — Clusterização e Segmentação de Universidades Americanas
+- Projeto: classificação de universidades
+- Análise exploratória de dados
+- Treinamento de modelo KMeans
+- Interpretação dos clusters
+
+---
+
+## 👥 Para quem este curso é recomendado
+- Estudantes de **Machine Learning** interessados em modelos de clusterização
+- Analistas de dados que desejam **descobrir padrões sem rótulos**
+- Profissionais de **Ciência de Dados** em busca de técnicas avançadas
+- Pessoas interessadas em **aplicações práticas de aprendizado não supervisionado**
+
+---
+
+## 👨‍🏫 Instrutor
+**Rodrigo Tadewald**
+
+---
+
+## 📌 Pré-requisitos
+- Conhecimento prévio em **Modelos de Classificação e Regressão**
+- Noções básicas de **Python para Ciência de Dados**
+
+---
+
+## 🧩 Área de conhecimento
+**Data Science & Machine Learning**
+
+---
+
+## 🚀 Resultado do aprendizado
+Ao final do curso, o aluno será capaz de:
+- Escolher corretamente entre **KMeans** e **GMM**
+- Interpretar clusters e distribuições probabilísticas
+- Aplicar aprendizado não supervisionado em **dados reais**
+- Desenvolver projetos práticos de clusterização e segmentação
+
+-----
 - Apply unsupervised learning to **real-world data**
 - Build practical clustering and segmentation projects
