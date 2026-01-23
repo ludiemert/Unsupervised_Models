@@ -115,12 +115,12 @@ ________________________________________
     <table>
         <tr>
              <td style="width: 50%; text-align: center;">
-                <img src="7_Classification_Regression_Models_img/18_Métricas_essenciais_modelos_classificação_Confusion_Matrix.png" style="width: 90%;" alt="Métricas_essenciais_modelos_classificação_Confusion_Matrix">
-                <p style="margin-top: 5px;">Métricas_essenciais_modelos_classificação_Confusion_Matrix</p>
+                <img src="1_Unsupervised_Models_Img/4_criar 2 subplotes.png" style="width: 90%;" alt="1_Unsupervised_Models_Img/4_criar 2 subplotes">
+                <p style="margin-top: 5px;">1_Unsupervised_Models_Img/4_criar 2 subplotes</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="7_Classification_Regression_Models_img/26_Matriz de Confusão.png" style="width: 90%;" alt="Matriz de Confusão">
-                <p style="margin-top: 5px;">Matriz de Confusão</p>
+                <img src="1_Unsupervised_Models_Img/9_Unsupervised_cluster_centers.png" style="width: 90%;" alt="9_Unsupervised_cluster_centers">
+                <p style="margin-top: 5px;">9_Unsupervised_cluster_centers</p>
             </td>
         </tr>
     </table>
@@ -139,12 +139,12 @@ ________________________________________
     <table>
         <tr>
             <td style="width: 50%; text-align: center;">
-                <img src="7_Classification_Regression_Models_img/28_Matriz de Confusão Normalizada_img.png" style="width: 90%;" alt="Matriz de Confusão Normalizada">
-                <p style="margin-top: 5px;">Matriz de Confusão Normalizada</p>
+                <img src="1_Unsupervised_Models_Img/11_inertias_Unsupervised.png" style="width: 90%;" alt="1_Unsupervised_Models_Img/11_inertias_Unsupervised">
+                <p style="margin-top: 5px;">1_Unsupervised_Models_Img/11_inertias_Unsupervised</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="7_Classification_Regression_Models_img/32_Linear_Regression_grafic com legendas.png" style="width: 90%;" alt="Linear_Regression_grafic com legendas">
-                <p style="margin-top: 5px;">Linear_Regression_grafic com legendas</p>
+                <img src="1_Unsupervised_Models_Img/16_Gaussian Mixture Models.png" style="width: 90%;" alt="1_Unsupervised_Models_Img/16_Gaussian Mixture Models">
+                <p style="margin-top: 5px;">1_Unsupervised_Models_Img/16_Gaussian Mixture Model</p>
             </td>
         </tr>
     </table>
@@ -160,11 +160,11 @@ ________________________________________
     <table>
         <tr>
              <td style="width: 50%; text-align: center;">
-                <img src="7_Classification_Regression_Models_img/34_Regressão Linear_Calc_estrutura_Basic.png" style="width: 90%;" alt="Regressão Linear_Calc_estrutura_Basic">
-                <p style="margin-top: 5px;">Regressão Linear_Calc_estrutura_Basic</p>
+                <img src="2_K_Means_Clustering_Project_Img/10_vetores centrais do cluster_K_Means_Clus.png" style="width: 90%;" alt="2_K_Means_Clustering_Project_Img/10_vetores centrais do cluster_K_Means_Clus">
+                <p style="margin-top: 5px;">2_K_Means_Clustering_Project_Img/10_vetores centrais do cluster_K_Means_Clus</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="7_Classification_Regression_Models_img/36_Regressão Linear Dados x. Reta Ajustada_grafic.png" style="width: 90%;" alt="Regressão Linear Dados x. Reta Ajustada_grafic">
+                <img src="2_K_Means_Clustering_Project_Img/3_scatterplot_grafic_K_Means_Clustering.png" style="width: 90%;" alt="2_K_Means_Clustering_Project_Img/3_scatterplot_grafic_K_Means_Clustering">
                 <p style="margin-top: 5px;">Regressão Linear Dados x. Reta Ajustada_grafic</p>
             </td>
         </tr>
@@ -183,12 +183,12 @@ ________________________________________
     <table>
         <tr>
             <td style="width: 50%; text-align: center;">
-                <img src="7_Classification_Regression_Models_img/40_Linear_Regression_Evolução da Regressão Linear por Gradiente Descendente.png" style="width: 90%;" alt="Linear_Regression_Evolução da Regressão Linear por Gradiente Descendente">
-                <p style="margin-top: 5px;">Linear_Regression_Evolução da Regressão Linear por Gradiente Descendente</p>
+                <img src="2_K_Means_Clustering_Project_Img/5_FacetGrid_K_Means.png" style="width: 90%;" alt="2_K_Means_Clustering_Project_Img/5_FacetGrid_K_Means">
+                <p style="margin-top: 5px;">2_K_Means_Clustering_Project_Img/5_FacetGrid_K_Means</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="7_Classification_Regression_Models_img/42_Linear_Regression_mudando a taxa de aprendizado_testes.png" style="width: 90%;" alt="Linear_Regression_mudando a taxa de aprendizado_testes">
-                <p style="margin-top: 5px;">Linear_Regression_mudando a taxa de aprendizado_testes</p>
+                <img src="2_K_Means_Clustering_Project_Img/9_K_Means_Clus_see_grafic.png" style="width: 90%;" alt="2_K_Means_Clustering_Project_Img/9_K_Means_Clus_see_grafic">
+                <p style="margin-top: 5px;">2_K_Means_Clustering_Project_Img/9_K_Means_Clus_see_grafic</p>
             </td>
         </tr>
     </table>
@@ -204,12 +204,12 @@ ________________________________________
     <table>
         <tr>
              <td style="width: 50%; text-align: center;">
-                <img src="7_Classification_Regression_Models_img/44_Linear_Regression_Model Regressoes Polinomiais 1_start learning.png" style="width: 90%;" alt="Linear_Regression_Model Regressoes Polinomiais 1_start learning">
-                <p style="margin-top: 5px;">Linear_Regression_Model Regressoes Polinomiais 1_start learning</p>
+                <img src="2_K_Means_Clustering_Project_Img/7_K_Means_Clus._taxa de graduação superior a 100.png" style="width: 90%;" alt="2_K_Means_Clustering_Project_Img/7_K_Means_Clus._taxa de graduação superior a 100">
+                <p style="margin-top: 5px;">2_K_Means_Clustering_Project_Img/7_K_Means_Clus._taxa de graduação superior a 100</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="7_Classification_Regression_Models_img/45_Linear_Regression_simular valores bem aleatorios.png" style="width: 90%;" alt="Linear_Regression_simular valores bem aleatorios">
-                <p style="margin-top: 5px;">Linear_Regression_simular valores bem aleatorios</p>
+                <img src="2_K_Means_Clustering_Project_Img/2_format_Date_Table_K_Means_Clustering_Project.png" style="width: 90%;" alt="2_K_Means_Clustering_Project_Img/2_format_Date_Table_K_Means_Clustering_Project">
+                <p style="margin-top: 5px;">2_K_Means_Clustering_Project_Img/2_format_Date_Table_K_Means_Clustering_Project</p>
             </td>
         </tr>
     </table>
