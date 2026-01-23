@@ -61,11 +61,6 @@ The course combines **theory** and **practical exercises**, helping students app
 
 ---
 
-## 👨‍🏫 Instructor
-**Rodrigo Tadewald**
-
----
-
 ## 📌 Prerequisites
 - Knowledge of **Classification and Regression Models**
 - Basic knowledge of **Python for Data Science**
@@ -83,7 +78,148 @@ After this course, the student will be able to:
 - Interpret clusters and probability distributions
 
 
------
+--------
+
+### Img projects
+
+## Screenshots
+
+Here are some images showing the layout of the application:
+
+________________________________________
+
+<h4 align="center">Unsupervised_Models  🥰 🚀</h4>
+
+<div align="center">
+    <table>
+        <tr>
+            <td style="width: 50%; text-align: center;">
+                <img src="7_Classification_Regression_Models_img/1_Conj_Date_MNIST.png" style="width: 90%;" alt="Conj_Date_MNIST">
+                <p style="margin-top: 5px;">Conj_Date_MNIST</p>
+            </td>
+            <td style="width: 50%; text-align: center;">
+                <img src="7_Classification_Regression_Models_img/12_result_test_train_False.png" style="width: 90%;" alt="result_test_train_False">
+                <p style="margin-top: 5px;">Result_test_train_False</p>
+            </td>
+        </tr>
+    </table>
+</div>
+
+  <br/>
+  <br/>
+
+
+________________________________________
+
+<div align="center">
+    <table>
+        <tr>
+             <td style="width: 50%; text-align: center;">
+                <img src="7_Classification_Regression_Models_img/18_Métricas_essenciais_modelos_classificação_Confusion_Matrix.png" style="width: 90%;" alt="Métricas_essenciais_modelos_classificação_Confusion_Matrix">
+                <p style="margin-top: 5px;">Métricas_essenciais_modelos_classificação_Confusion_Matrix</p>
+            </td>
+            <td style="width: 50%; text-align: center;">
+                <img src="7_Classification_Regression_Models_img/26_Matriz de Confusão.png" style="width: 90%;" alt="Matriz de Confusão">
+                <p style="margin-top: 5px;">Matriz de Confusão</p>
+            </td>
+        </tr>
+    </table>
+</div>
+
+  <br/>
+  <br/>
+
+
+  ________________________________________
+
+  
+<h4 align="center">Unsupervised_Models 🥰 🚀</h4>
+
+<div align="center">
+    <table>
+        <tr>
+            <td style="width: 50%; text-align: center;">
+                <img src="7_Classification_Regression_Models_img/28_Matriz de Confusão Normalizada_img.png" style="width: 90%;" alt="Matriz de Confusão Normalizada">
+                <p style="margin-top: 5px;">Matriz de Confusão Normalizada</p>
+            </td>
+            <td style="width: 50%; text-align: center;">
+                <img src="7_Classification_Regression_Models_img/32_Linear_Regression_grafic com legendas.png" style="width: 90%;" alt="Linear_Regression_grafic com legendas">
+                <p style="margin-top: 5px;">Linear_Regression_grafic com legendas</p>
+            </td>
+        </tr>
+    </table>
+</div>
+
+  <br/>
+  <br/>
+
+
+________________________________________
+
+<div align="center">
+    <table>
+        <tr>
+             <td style="width: 50%; text-align: center;">
+                <img src="7_Classification_Regression_Models_img/34_Regressão Linear_Calc_estrutura_Basic.png" style="width: 90%;" alt="Regressão Linear_Calc_estrutura_Basic">
+                <p style="margin-top: 5px;">Regressão Linear_Calc_estrutura_Basic</p>
+            </td>
+            <td style="width: 50%; text-align: center;">
+                <img src="7_Classification_Regression_Models_img/36_Regressão Linear Dados x. Reta Ajustada_grafic.png" style="width: 90%;" alt="Regressão Linear Dados x. Reta Ajustada_grafic">
+                <p style="margin-top: 5px;">Regressão Linear Dados x. Reta Ajustada_grafic</p>
+            </td>
+        </tr>
+    </table>
+</div>
+
+  <br/>
+  <br/>
+
+
+  ________________________________________
+
+<h4 align="center">Unsupervised_Models 🥰 🚀</h4>
+
+<div align="center">
+    <table>
+        <tr>
+            <td style="width: 50%; text-align: center;">
+                <img src="7_Classification_Regression_Models_img/40_Linear_Regression_Evolução da Regressão Linear por Gradiente Descendente.png" style="width: 90%;" alt="Linear_Regression_Evolução da Regressão Linear por Gradiente Descendente">
+                <p style="margin-top: 5px;">Linear_Regression_Evolução da Regressão Linear por Gradiente Descendente</p>
+            </td>
+            <td style="width: 50%; text-align: center;">
+                <img src="7_Classification_Regression_Models_img/42_Linear_Regression_mudando a taxa de aprendizado_testes.png" style="width: 90%;" alt="Linear_Regression_mudando a taxa de aprendizado_testes">
+                <p style="margin-top: 5px;">Linear_Regression_mudando a taxa de aprendizado_testes</p>
+            </td>
+        </tr>
+    </table>
+</div>
+
+  <br/>
+  <br/>
+
+
+________________________________________
+
+<div align="center">
+    <table>
+        <tr>
+             <td style="width: 50%; text-align: center;">
+                <img src="7_Classification_Regression_Models_img/44_Linear_Regression_Model Regressoes Polinomiais 1_start learning.png" style="width: 90%;" alt="Linear_Regression_Model Regressoes Polinomiais 1_start learning">
+                <p style="margin-top: 5px;">Linear_Regression_Model Regressoes Polinomiais 1_start learning</p>
+            </td>
+            <td style="width: 50%; text-align: center;">
+                <img src="7_Classification_Regression_Models_img/45_Linear_Regression_simular valores bem aleatorios.png" style="width: 90%;" alt="Linear_Regression_simular valores bem aleatorios">
+                <p style="margin-top: 5px;">Linear_Regression_simular valores bem aleatorios</p>
+            </td>
+        </tr>
+    </table>
+</div>
+
+  <br/>
+  <br/>
+
+
+  ----
 
 #### Portugues
 
@@ -144,11 +280,6 @@ O curso combina **fundamentação teórica sólida** com **exercícios práticos
 - Analistas de dados que desejam **descobrir padrões sem rótulos**
 - Profissionais de **Ciência de Dados** em busca de técnicas avançadas
 - Pessoas interessadas em **aplicações práticas de aprendizado não supervisionado**
-
----
-
-## 👨‍🏫 Instrutor
-**Rodrigo Tadewald**
 
 ---
 
