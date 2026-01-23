@@ -94,8 +94,8 @@ ________________________________________
     <table>
         <tr>
             <td style="width: 50%; text-align: center;">
-                <img src="7_Classification_Regression_Models_img/1_Conj_Date_MNIST.png" style="width: 90%;" alt="Conj_Date_MNIST">
-                <p style="margin-top: 5px;">Conj_Date_MNIST</p>
+                <img src="1_Unsupervised_Models_Img/2_linha, colunas e cores_Unsupervised_Learning.png" style="width: 90%;" alt="linha, colunas e cores_Unsupervised_Learning">
+                <p style="margin-top: 5px;">linha, colunas e cores_Unsupervised_Learning</p>
             </td>
             <td style="width: 50%; text-align: center;">
                 <img src="7_Classification_Regression_Models_img/12_result_test_train_False.png" style="width: 90%;" alt="result_test_train_False">
