@@ -98,8 +98,8 @@ ________________________________________
                 <p style="margin-top: 5px;">linha, colunas e cores_Unsupervised_Learning</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="7_Classification_Regression_Models_img/12_result_test_train_False.png" style="width: 90%;" alt="result_test_train_False">
-                <p style="margin-top: 5px;">Result_test_train_False</p>
+                <img src="1_Unsupervised_Models_Img/3_gráfico com clusters, centróides, legenda, anotações_Unsupervised_Learning.png" style="width: 90%;" alt="gráfico com clusters, centróides, legenda, anotações_Unsupervised_Learning">
+                <p style="margin-top: 5px;">gráfico com clusters, centróides, legenda, anotações_Unsupervised_Learning</p>
             </td>
         </tr>
     </table>
